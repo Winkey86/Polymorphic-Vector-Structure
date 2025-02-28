@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 
-typedef struct{// указатель на элементы
+typedef struct{
     size_t capacity;   
     size_t elem_size;   
     datatype type;      
