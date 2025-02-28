@@ -4,11 +4,10 @@
 #include <stdio.h>
 
 
-typedef struct{
-    void *data;          // указатель на элементы
-    size_t capacity;     // количество элементов
-    size_t elem_size;    // размер одного элемента
-    datatype type;       // тип элементов
+typedef struct{// указатель на элементы
+    size_t capacity;   
+    size_t elem_size;   
+    datatype type;      
     types * type_info;
 }Vector;
 
