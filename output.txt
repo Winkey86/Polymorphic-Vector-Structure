@@ -1,0 +1,60 @@
+
+====Current_vectors====
+Vector 0: [10, 20, 30]
+=======================
+
+Vector 0: [10, 99, 30]
+Scalar product of vectors 0 and 1: 298
+
+====Current_vectors====
+Vector 0: [10, 99, 30]
+Vector 1: [1, 2, 3]
+Vector 2: [11, 101, 33]
+=======================
+
+
+====Current_vectors====
+Vector 0: [10, 99, 30]
+Vector 1: [1, 2, 3]
+Vector 2: [11, 101, 33]
+Vector 3: [1.500, 3.140]
+=======================
+
+Vector 3: [9.999, 3.140]
+Scalar product of vectors 3 and 4: 13.509
+
+====Current_vectors====
+Vector 0: [10, 99, 30]
+Vector 1: [1, 2, 3]
+Vector 2: [11, 101, 33]
+Vector 3: [9.999, 3.140]
+Vector 4: [0.500, 2.710]
+Vector 5: [10.499, 5.850]
+=======================
+
+
+====Current_vectors====
+Vector 0: [10, 99, 30]
+Vector 1: [1, 2, 3]
+Vector 2: [11, 101, 33]
+Vector 3: [9.999, 3.140]
+Vector 4: [0.500, 2.710]
+Vector 5: [10.499, 5.850]
+Vector 6: [(1.000 + 2.500i), (3.000 + 4.000i)]
+=======================
+
+Vector 6: [(1.000 + 2.500i), (5.500 + 6.600i)]
+Scalar product of vectors 6 and 7: (1.700 + 48.900i)
+
+====Current_vectors====
+Vector 0: [10, 99, 30]
+Vector 1: [1, 2, 3]
+Vector 2: [11, 101, 33]
+Vector 3: [9.999, 3.140]
+Vector 4: [0.500, 2.710]
+Vector 5: [10.499, 5.850]
+Vector 6: [(1.000 + 2.500i), (5.500 + 6.600i)]
+Vector 7: [(2.000 + 1.000i), (4.000 + 3.000i)]
+Vector 8: [(3.000 + 3.500i), (9.500 + 9.600i)]
+=======================
+
